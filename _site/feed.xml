@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">things i do</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-04-26T16:01:50-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>kittinco</name>
+  <uri>http://localhost:4000/</uri>
+  <email>kittinco@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[All About Eileen Fisher]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/eileen-fisher" />
+  <id>http://localhost:4000/april-15th-post</id>
+  <updated>2014-04-16 02:27:22 UTCT00:00:00-00:00</updated>
+  <published>2014-04-15T00:00:00-04:00</published>
+  
+  <author>
+    <name>kittinco</name>
+    <uri>http://localhost:4000</uri>
+    <email>kittinco@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Today was the day I discovered Eileen Fisher. It might be a monumental thing. It might not be. But I do like what I see. What I see are 4 awesome kick-ass looking shoes, &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF38064/Coax+Bootie+in+Italian+Crackled+Leather.jsp?bmLocale=en_US&quot;&gt;the Coax Bootie&lt;/a&gt;, &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF38855/Catch+Mid+Heel+Sandal+in+Italian+Metallic+Leather+and+Washed+Leather.jsp?bmLocale=en_US&quot;&gt;the Catch Mid Heel Sandal&lt;/a&gt;, &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF36204/Key+Bootie+in+Italian+Suede.jsp?bmLocale=en_US&quot;&gt;the Key Bootie&lt;/a&gt;, and &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF36521/Vim+Bootie+in+Italian+Washed+Nubuck.jsp?bmLocale=en_US&quot;&gt;the Vim Bootie&lt;/a&gt;. &lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF36521/Vim+Bootie+in+Italian+Washed+Nubuck.jsp?bmLocale=en_US&quot;&gt;&lt;img src=&quot;/images_posts/2014-04-15-ef-bootie0.jpg&quot; /&gt;&lt;/a&gt;
+        &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF38064/Coax+Bootie+in+Italian+Crackled+Leather.jsp?bmLocale=en_US&quot;&gt;&lt;img src=&quot;/images_posts/2014-04-15-ef-bootie3.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;the Vim and the Coax&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I love all of their styles. There’s something extremely sensual about the curve of the boots’ and sandals’ heels. Especially the 3in heels on the Vim and the Coax. I’ve got a mixed feeling about the Vim because I love its name, vim – also, the name of the text editor that I’ve been liking lately and am currently using to type this entry now – but I’ve also read in the reviews that they are a bit loud and uncomfortable. Meh. The Coax has the same appeal to me as the Vim; the nice curvy and chunky heel that I love, but in a more modern, sassy way, whereas Vim was more rustic. The 1in heel Key and Catch Sandals have that tiny darling pebble of a heel that I love. I love the cut out designs for Catch Me (very summary and chic) and I just find the Key Bootie’s design very simplistic and easy to wear. So yeah. I like ‘em all. Too bad that I can’t “catch ‘em all.” &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF38855/Catch+Mid+Heel+Sandal+in+Italian+Metallic+Leather+and+Washed+Leather.jsp?bmLocale=en_US&quot;&gt;&lt;img src=&quot;/images_posts/2014-04-15-ef-bootie2.jpg&quot; /&gt;&lt;/a&gt;
+ &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Shoes/PRD_EF36204/Key+Bootie+in+Italian+Suede.jsp?bmLocale=en_US&quot;&gt;&lt;img src=&quot;/images_posts/2014-04-15-ef-bootie1.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Catch Mid Heel Sandal and the Key&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Aside from their shoe collection though, I like their &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Pants/PRD_SBVF-P1668P/Petite+Slouchy+Pant+in+Viscose+Jersey.jsp?bmLocale=en_US&quot;&gt;slouchy pants&lt;/a&gt; and their &lt;a href=&quot;http://www.eileenfisher.com/EileenFisher/Petite/ShopByItem/Pants/Sizes_2_to_14/PRD_R3WDN-P8210P/Petite+Skinny+Jean+in+Organic+Cotton+Waxed+Stretch+Denim.jsp?bmLocale=en_US&quot;&gt;leather pants&lt;/a&gt;. Let’s be honest here. Leather pants is definitely not the look I’m going for and I’m only interested in it because of the discounted price. The slouchy pants, well, I want it for good reasons because there are times when I just want to wear something comfy out. But, if I’m thinking that I can get away wearing it to work, I’m probably kidding myself. So I should cross them both off for being impractical. God, I love the slouchy pants though. I mean, &lt;em&gt;think of the comfiness.&lt;/em&gt; Okay, half crossed off. Let’s just draw the line half way through &lt;em&gt;slou-&lt;/em&gt;. Sigh, yeah, I mean no. Yeah. Gotta keep my head in the game. I promised myself that I’ll wear my Madewell jeans solely for awhile before I even let my eyes wander. Can’t cheat on my Madewell. &lt;/p&gt;
+
+&lt;p&gt;Now &lt;a href=&quot;http://www.alreadypretty.com/2011/02/eileen-fisher-fall-2011-preview.html&quot;&gt;here&lt;/a&gt; is one blogger’s review of Eileen Fisher. But what really got me thinking about her was &lt;a href=&quot;http://grechenscloset.com/outfit-officially/&quot;&gt;this blog entry&lt;/a&gt; by Grechen’s Closet. I love &lt;a href=&quot;http://www.grechenscloset.com&quot;&gt;Grechen’s Closet&lt;/a&gt;. I really love blogs that have awesome text. And text that are more descriptive and story-telling-y rather than just listing of products. (I also love &lt;a href=&quot;http://franish.blogspot.com&quot;&gt;franish&lt;/a&gt; because of this reason). &lt;/p&gt;
+
+&lt;p&gt;But along the way, I stumbled upon &lt;a href=&quot;http://www.slate.com/blogs/xx_factor/2013/09/19/eileen_fisher_in_the_new_yorker_the_clothing_designer_tells_janet_malcolm.html&quot;&gt;an article&lt;/a&gt;, in which Eileen Fisher talks about her leadership style as being “feminine.” In the article, she says, “Men and women talk differently. I don’t understand it exactly. Men talk faster. There’s more like a debate style. I felt I wouldn’t think fast enough.” She went on to explain how she focuses more on nurturing her employees and being economically aware – a very “feminine” business style. This made me pause, because I’m not too forthcoming with my opinions or aggressive either, but I pin it to be because I’m introverted rather than it be because of my biological sex. So, in the end, I agree with the writer of the article &lt;a href=&quot;http://www.slate.com/authors.jessica_grose.html&quot;&gt;Jessica Grose&lt;/a&gt; when she stated the following in her article: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But the problem with saying that treating your workers well and caring about their happiness are “feminine” leadership traits, while debate and quick thinking are “masculine,” just doubles down on pre-existing stereotypes and doesn’t challenge men to be more socially aware or women to be more aggressive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On a completely unrelated note, I’ve discovered a potential fave blogger today: &lt;a href=&quot;http://www.aintnomomjeans.com&quot;&gt;Ain’t No Mom Jeans&lt;/a&gt;. I like her style: fun, effortless, and comfortable. And she’s rockin’ her pixie cut! I’ve stumbled across two of her posts in the past because she did comparison posts on two of the brands I was interested in &lt;a href=&quot;http://www.aintnomomjeans.com/2013/04/t-shirt-showdown-loft-sunwashed-vs-james-perse-casual-tee.html&quot;&gt;James Perse&lt;/a&gt; and &lt;a href=&quot;http://www.aintnomomjeans.com/2013/02/t-shirt-showdown-everlane-vs-lands-end.html&quot;&gt;Everlane&lt;/a&gt; (And I was interested in James Perse because Grechen’s is all &lt;a href=&quot;http://grechenscloset.com/search-results/?cx=016112397564498437767%3Amocn55r1yb8&amp;amp;cof=FORID%3A11&amp;amp;ie=UTF-8&amp;amp;q=james+perse&amp;amp;sa=Search&amp;amp;siteurl=grechenscloset.com%2F&amp;amp;ref=www.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0CC0QFjAA%26url%3Dhttp%253A%252F%252Fgrechenscloset.com%252F%26ei%3DxfJNU_CrEMKKyAS2l4DwCw%26usg%3DAFQjCNFBiJcNfqr-ieUh17Pd1ihwmmP-Ww%26sig2%3D09f4WiLnesNjStAzQ7tRNA%26bvm%3Dbv.64764171%2Cd.aWw&amp;amp;ss=3060j563320j21&quot;&gt;ga-ga&lt;/a&gt; over him; you see how blogging works? It goes full circle.)&lt;/p&gt;
+
+&lt;p&gt;Anyway, that’s it for now. In the span of writing this post, I have learned how to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;create an inline link in markdown&lt;/li&gt;
+  &lt;li&gt;delete to the end of sentence in vim (d$)&lt;/li&gt;
+  &lt;li&gt;jump backward one sentence (()&lt;/li&gt;
+  &lt;li&gt;move backward one word (b)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The power of learning on the fly. &lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Just wanted to put a bit of disclaimer that I love to obsess over things and write about them, but I rarely ever make the jump to actually purchase them so yeah. My shoe collection – or any collection for that matter – remains decently small; just the way I like it.  &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/eileen-fisher&quot;&gt;All About Eileen Fisher&lt;/a&gt; was originally published by kittinco at &lt;a href=&quot;http://localhost:4000&quot;&gt;things i do&lt;/a&gt; on April 15, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Just Another Week - Netflix and Code]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/netflix-and-code/" />
+  <id>http://localhost:4000/netflix-and-code</id>
+  <updated>2014-04-06T00:00:00-00:00</updated>
+  <published>2014-04-06T00:00:00-04:00</published>
+  
+  <author>
+    <name>kittinco</name>
+    <uri>http://localhost:4000</uri>
+    <email>kittinco@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This week went by relatively unprofoundly. I’ve spent most of my free time watching Netflix movies. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;March 30: finished watching Arrested Development&lt;/li&gt;
+  &lt;li&gt;April 04: watched &lt;a href=&quot;https://www.netflix.com/WiMovie/Marc%20Maron:%20Thinky%20Pain/70273401?trkid=438403&quot;&gt;Marc Maron: Thinky Pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;April 04: watched &lt;a href=&quot;https://www.netflix.com/WiMovie/Populaire/70269481?trkid=438403&quot;&gt;Populaire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;April 05: watched lots and lots of Archer&lt;/li&gt;
+  &lt;li&gt;April 06: watched &lt;a href=&quot;https://www.netflix.com/WiMovie/The%20Hairdresser/70132707?trkid=438403&quot;&gt;The Hairdresser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s the week in which I’ve discovered my love for &lt;a href=&quot;http://en.wikipedia.org/wiki/Anthony_Jeselnik&quot;&gt;dead pan comedy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3 id=&quot;a-bit-of-debuggin&quot;&gt;a bit of debuggin’&lt;/h3&gt;
+
+&lt;p&gt;I’ve debugged something simple, but it was a bit of a “lesson learned” moment so I would tuck it in here. I was using SharedPreferences to save my TreeSet data, using TreeSet in order to keep things alphabetical (the data were of String types), when I noticed that upon retrieval, the data weren’t… well, alphabetical.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;values&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;T&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;H&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;I&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;S&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Arrays&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;asList&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//the set.toString() at this point would be alphabetical&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;SharedPreferences&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;getSharedPreferences&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SHARED_PREFERENCE_NAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;SharedPreferences&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;Editor&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;editor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;edit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;editor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;putStringSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TREE_SET&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;editor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;commit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//before &lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getStringSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TREE_SET&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;());&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//the set.toString() at this point wouldn&amp;#39;t be alphabetical&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I was hemming and hawing about what was going on there, thinking that maybe I have somehow implemented the data structure incorrectly when I realized that, duh, the getStringSet() method returned a Set. Not a TreeSet. This solved that problem: &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;&lt;span class=&quot;c1&quot;&gt;//after&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getStringSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;custom_irs&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;());&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And now everything works just fine. &lt;/p&gt;
+
+&lt;p&gt;With one caveat: if the ordering of the element is dependent on when it was added to the Set, for instance, in a LinkedHashSet, than the element order would not be preserved. &lt;/p&gt;
+
+&lt;h3 id=&quot;what-im-listening-to&quot;&gt;what I’m listening to:&lt;/h3&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/dV4_giHgDDk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/netflix-and-code/&quot;&gt;Just Another Week - Netflix and Code&lt;/a&gt; was originally published by kittinco at &lt;a href=&quot;http://localhost:4000&quot;&gt;things i do&lt;/a&gt; on April 06, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Yesterday's Epiphany]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/yesterdays-epiphany/" />
+  <id>http://localhost:4000/yesterdays-epiphany</id>
+  <published>2014-03-30T00:00:00-04:00</published>
+  <updated>2014-03-30T00:00:00-04:00</updated>
+  <author>
+    <name>kittinco</name>
+    <uri>http://localhost:4000</uri>
+    <email>kittinco@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;For a week or two now, I’ve been obsessed with this concept of travelling around the world and freelancing full time, and I sort of married that idea. So I would spend 5 hours or so per weekend day just obsessing over resources on RTW travelling and freelancing and other web jobs, and then I run out of steam and realize that I’ve accomplished nothing during that span of time. Because that’s what I do. I try to go from 0 to 100 in one leap. I’m silly. &lt;/p&gt;
+
+&lt;p&gt;Also, when I do research, I tend to do it to be “inspired,” rather than to get any concrete data, which amounts to massive amount of frustration and wasted time and effort&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. During this burn out phase though, I stumbled upon one paragraph, and that was sort of the epiphany. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The &lt;strong&gt;Pilot&lt;/strong&gt; is a personal item carry-on sized travel bag designed to fit the items you want close at hand and easily accessible during your flight or at the airport.[…]Ultralight travelers may choose to use the Pilot as their “one bag” travel bag, utilizing the Pilot’s Packing Cubes for organizing clothing and a 3D Clear Organizer Cube for toiletries. - src from &lt;a href=&quot;http://www.tombihn.com/blog/introducing-pilot&quot;&gt;Tom Bihn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And that sort of broke it down for me. Because I realized that I can just start off with simple trips that require no more than, say, this &lt;a href=&quot;http://www.tombihn.com/PROD/pilot.html&quot;&gt;Pilot&lt;/a&gt; bag. Baby steps. Maybe plan a trip 2-3 hrs away for maybe 2-3 days. &lt;/p&gt;
+
+&lt;p&gt;So that was my epiphany of the day. 
+Yeah… my muse sucks. &lt;/p&gt;
+
+&lt;h2 id=&quot;some-tabs-ive-got-open&quot;&gt;Some tabs I’ve got open:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tombihn.com/PROD/TB0111.html&quot;&gt;Synapse 25 by Tom Bihn&lt;/a&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.goruck.com/en/&quot;&gt;GoRuck&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://emacsredux.com/blog/2013/11/12/a-crazy-productivity-boost-remap-return-to-control/&quot;&gt;Emacs Remapping Return to Control&lt;/a&gt; &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://orgmode.org/worg/org-tutorials/&quot;&gt;Org-mode tutorials&lt;/a&gt;&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://members.optusnet.com.au/~charles57/GTD/orgmode.html&quot;&gt;Using Emacs org-mode for GTD&lt;/a&gt;&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nomadicmatt.com/travel-guides/sweden-travel-tips/&quot;&gt;Nomadic Matt: Swedent Travel Tips&lt;/a&gt;&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.zippedblog.com/2012/11/snow-flurries.html&quot;&gt;Zipped Blog&lt;/a&gt;&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;things-ive-watched&quot;&gt;things I’ve watched:&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/HeR7EC80qyY&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;The End. Off to Chipotle for lunch now. &lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I really suck at research papers.  &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;this bag was actually the one that got me started on Tom Bihn because it was awarded the &lt;a href=&quot;http://www.carryology.com/projects/carry-awards/the-second-annual-carry-awards-roundup/&quot;&gt;“Best Carry On”&lt;/a&gt; bag.  &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;initially I figured that this GoRuck bag would be my ultimum travel bag. I’m a sucker for things marketed as “indestructible” or “becomes better the more you use it.” If I were to choose from here, I would’ve gone for the SD25 for $70. That’s my kinda price range.  &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Because I was obsessed with Emacs this weekend.  &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;…Because I wanted to use Org-mode. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;…Because I wanted to use it for GTD. Because I never GTD.  &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Beccause I would love to go to Sweden one day.  &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;i’m trying to decide whether to buy this &lt;a href=&quot;http://www.zappos.com/sam-edelman-petty&quot;&gt;Sam Edelman Petty boots&lt;/a&gt; or not. I like everything about it. sans the bright silver zipper.  &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/yesterdays-epiphany/&quot;&gt;Yesterday's Epiphany&lt;/a&gt; was originally published by kittinco at &lt;a href=&quot;http://localhost:4000&quot;&gt;things i do&lt;/a&gt; on March 30, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
